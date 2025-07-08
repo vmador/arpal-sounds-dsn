@@ -1,6 +1,6 @@
 {
-    "name": "Arpal Sounds DSN",
-    "short_name": "Arpal Sounds DSN",
+    "name": "arpal-sounds-dsn",
+    "short_name": "arpal-sounds-dsn",
     "description": "Productive Soundscapes",
     "start_url": "/arpal-sounds-dsn/",
     "scope": "/arpal-sounds-dsn/",
