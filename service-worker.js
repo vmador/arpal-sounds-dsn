@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Arpal Sounds DSN-pwa-cache-v2';
+const CACHE_NAME = 'arpal-sounds-dsn-pwa-cache-v2';
 const urlsToCache = [
     '/arpal-sounds-dsn/',
     '/arpal-sounds-dsn/index.html',
